@@ -6,7 +6,7 @@ import ErrorPage from './pages/ErrorPage.tsx';
 import Home from './pages/Home.tsx'
 import AboutMe from './pages/AboutMe.tsx';
 import Projects from './pages/Projects.tsx';
-import Resume from './pages/resume.tsx';
+import Resume from './pages/Resume.tsx';
 import Contact from './pages/Contact.tsx';
 
 const router = createBrowserRouter([
